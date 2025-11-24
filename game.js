@@ -1205,7 +1205,7 @@ var _SETTINGS = {
     },
     Logo: {
       Enabled: !1,
-      Link: "http://google.com",
+      Link: "https://docs.google.com/document/d/1cUxW7DM3ZFM_KlhhCemeDBan6J4ThC3y2Y87Sal77Kk/edit?usp=sharing",
       LinkEnabled: !1,
       NewWindow: !0,
       Width: 166,
@@ -1214,7 +1214,7 @@ var _SETTINGS = {
   },
   MoreGames: {
     Enabled: !1,
-    Link: "http://www.marketjs.com/game/links/mobile",
+    Link: "https://docs.google.com/document/d/1cUxW7DM3ZFM_KlhhCemeDBan6J4ThC3y2Y87Sal77Kk/edit?usp=sharing",
     NewWindow: !0
   },
   Gamecenter: {
